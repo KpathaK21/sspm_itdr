@@ -62,8 +62,8 @@ You will see live updates as new risks and events are detected.
 
 1. Clone this repository:
 ```bash
-git clone <your-repo-url>
-cd <your-repo-name>
+git clone git@github.com:KpathaK21/sspm_itdr.git
+cd sspm_itdr
 
 
 2. Install required Python packages:
